@@ -1,0 +1,8 @@
+control,weight,owner,corrective_action
+regulatory,25,Compliance,Validate required certifications before approval
+financial,20,Finance,Review financial viability
+operational,15,Supply Chain,Agree delivery recovery plan
+contract,15,Legal,Review contract deviation
+esg,10,Sustainability,Request evidence and remediation
+cyber,10,IT Security,Complete security assessment
+concentration,5,Procurement,Assess alternate sourcing
